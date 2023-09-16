@@ -1,7 +1,7 @@
 // JS
-import "/web/form.js"
+import "./form.js"
 
 // CSS
-import "/web/styles/base.css"
-import "/web/styles/app.css"
-import "/web/styles/form.css"
+import "./styles/base.css"
+import "./styles/app.css"
+import "./styles/form.css"
